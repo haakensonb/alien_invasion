@@ -17,9 +17,6 @@ def run_game():
     # Make a ship
     ship = Ship(screen)
 
-    # Set the background color
-    bg_color = ai_settings.bg_color
-
     # Start main loop for the game
     while True:
         gf.check_events()
