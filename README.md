@@ -14,6 +14,13 @@ To launch the game you only need to run the file alien_invasion.py
 python alien_invasion.py
 ```
 
+# Controls
+Arrow keys: Move ship left and right
+
+Spacebar: Shoot
+
+Q: Shortcut to close game
+
 # TODO
 * Make 'P' a shortcut for play button
 * Add sound effects
