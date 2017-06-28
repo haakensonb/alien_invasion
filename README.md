@@ -21,3 +21,4 @@ python alien_invasion.py
 * Refactor
 * Add bullet upgrades?
 * Give aliens bullets or make them switch directions randomly for more challenge
+* Additional alien types?
