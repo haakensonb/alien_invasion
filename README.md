@@ -24,6 +24,7 @@ Q: Shortcut to close game
 # TODO
 * Make 'P' a shortcut for play button
 * Add sound effects
+* Write all time high score to a file so that it can remain after game is closed
 * Make each alien edge detection independent of each row
 * Refactor
 * Add bullet upgrades?
